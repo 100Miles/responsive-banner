@@ -15,3 +15,18 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+img {
+  max-height: 20rem;
+  width: 100%;
+}
+
+header {
+  background-color: rgba(73, 85, 98, .9);
+  color: #fff;
+}
+
+.btn {
+  color: #fff;
+  border-color: #97a49b;
+}
